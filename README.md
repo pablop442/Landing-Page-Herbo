@@ -1,3 +1,18 @@
+[![bs logo](https://avatars.githubusercontent.com/u/2918581?s=280&v=4 "bs logo")](https://avatars.githubusercontent.com/u/2918581?s=280&v=4 "bs logo")
+### Descripción
+
+- Este repositorio contiene una landing page del Herbolario Romero.
+- Realizado con Bootstrap v5.1.
+- Desarrollado con fines académicos para el bootcamp de 4Geeks Academy.
+
+### Documentación
+[Bootstrap Docs](https://getbootstrap.com/docs/5.1/getting-started/introduction/ "Bootstrap Docs")
+
+### Creadores
+- Pablo Peña
+- Isaac Hernández
+
+
 # ![4Geeks Logo](http://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=4geeks,16) HTML Hello
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/html-hello.git)
